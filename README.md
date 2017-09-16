@@ -22,4 +22,11 @@
 ## Buy the board
 
 https://www.tindie.com/products/10469/
+
+## Flashing
+
+   To flash the board, you need connect the serial pins (TX,RX and GND) and also connect the pin 0 to ground and 
+   press the reset button. The easy way to to this is connect the pins with the yellow arrow.
       
+      ![Connect pin 0 to ground](/images/remotsy_flash.png?raw=true "Connect pin 0 to ground")
+
