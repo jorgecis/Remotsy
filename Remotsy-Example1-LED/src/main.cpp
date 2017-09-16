@@ -3,7 +3,7 @@
 #include <Ticker.h>
 
 
-Adafruit_NeoPixel LED = Adafruit_NeoPixel(1, BUILTIN_LED, NEO_GRB + NEO_KHZ800);
+Adafruit_NeoPixel LED = Adafruit_NeoPixel(1, 14, NEO_GRB + NEO_KHZ800);
 Ticker led_ticker;
 
 void tick()
