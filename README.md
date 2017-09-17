@@ -4,8 +4,8 @@
 
 ## DESCRIPTION
 
-   The remotsy board is a ESP8266 infrared blaster and receiver. The board comes with a firmware to use the remosty
-   cloud,but is possible to flash the board with any firmware. Here I wrote some examples.
+   Remotsy is a ESP8266 equipped with a infrared blaster and receiver. The board's stock firmware is programmed to 
+   communicate with Remosty cloud,but it's possible to flash the board with any firmware. Here are some examples:
    
   ## Example 1 RGB LED
      The board has a RGB neo pixel LED, the led is connected to the pin 14. the example use the ticker function to
