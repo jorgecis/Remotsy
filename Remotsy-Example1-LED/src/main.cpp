@@ -18,6 +18,7 @@ void tick()
 }
 
 void setup() {
+  LED.begin();
   led_ticker.attach(500, tick);
 }
 
