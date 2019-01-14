@@ -64,6 +64,6 @@ void setup() {
 void loop() {
   Serial.println("Begin Update");
   // The server will validate the chip id to flash only
-  // remtorsy boards.
+  // Remotsy boards.
   do_update();
 }
